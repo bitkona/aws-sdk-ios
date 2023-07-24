@@ -1,5 +1,5 @@
 # AWS SDK for iOS
-
+TEST
 [![Release](https://img.shields.io/github/release/aws/aws-sdk-ios.svg)](../../releases)
 [![CocoaPods](https://img.shields.io/cocoapods/v/AWSCore.svg)](https://cocoapods.org/pods/AWSCore)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
